@@ -22,10 +22,12 @@ A fully responsive, animated portfolio built with HTML, TailwindCSS, JavaScript,
 
 ---
 
-##  Connect with Me  
-| Platform | Link |
-|----------|------|
-| LinkedIn | [linkedin.com/in/waris‑ali‑62a819368](https://www.linkedin.com/in/waris-ali-62a819368/) |
+- 💻 **Languages**: HTML, CSS, JavaScript, TypeScript
+- ⚛️ **Frameworks**: React, Tailwind CSS, Bootstrap
+- 🔥 **Firebase**: Authentication, Firestore, Hosting
+- 🧠 **Learning**: MERN Stack, TypeScript, Backend APIs
+- 🧰 **Tools**: VS Code, Git, GitHub, Figma, Canva
+- 🌐 **Other Skills**: Responsive Design, Animated UI, Modern UX
 | Portfolio | [My Portfolio Website](https://warisgulzar123.github.io/My-portfolio/) |
 | Email | warisgulzar123@gmail.com |
 
