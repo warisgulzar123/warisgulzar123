@@ -1,6 +1,10 @@
-## Hi there 👋
+1. GitHub Username: warisgulzar123 ✅
 
-<!--
+2. Portfolio Project:
+- Name: My-portfolio
+- Live Link: https://warisgulzar123.github.io/My-portfolio/
+- Tech Used: HTML, TailwindCSS, JavaScript, Firebase, React
+
 **warisgulzar123/warisgulzar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
