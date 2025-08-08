@@ -33,7 +33,3 @@ A fully responsive, animated portfolio built with HTML, TailwindCSS, JavaScript,
 
 ---
 
-
-
-Agar aap chaho to me aapko aur bhi custom tweaks (like GIFs or theme) bana ke deta hoon — bas bolo!
-::contentReference[oaicite:3]{index=3}
