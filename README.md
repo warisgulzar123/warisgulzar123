@@ -1,35 +1,70 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm Waris Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<p align="center">Front‑End Developer & MERN Enthusiast</p>
+# Hi, I'm Waris Ali  
+**Full‑Stack Developer | MERN Stack Specialist**
+
+## 👨‍💻 About Me
+I'm a passionate Full‑Stack Developer with expertise in MERN Stack, WordPress, and Shopify. With 2+ years of experience, I build complete web and mobile applications from frontend to backend. I hold an M.A in Islamic Studies and balance technical skills with spiritual growth.
+
+## 🚀 Technical Skills
+
+### 💻 **Languages**
+JavaScript (ES6+) | TypeScript | HTML5 | CSS3
+
+### ⚛️ **Frontend**
+React.js | Next.js | Tailwind CSS | Bootstrap | Material-UI
+
+### 🔧 **Backend & Databases**
+Node.js | Express.js | MongoDB | MySQL | REST APIs
+
+### 🏪 **CMS & E-commerce**
+WordPress Development | Shopify Development | WooCommerce
+
+### 📱 **Mobile & Real-time**
+React Native | Socket.io | WebSockets
+
+### 🛠️ **Tools & Platforms**
+Git & GitHub | VS Code | Postman | Docker | AWS | Firebase
+
+## 🎯 Featured Projects
+
+### ApnaMart - E-commerce Platform
+Complete MERN Stack e-commerce solution with user authentication, product management, shopping cart, and payment integration.
+- **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+- **🔗 Live Demo:** [apnamart-demo.com](#)
+- **📁 GitHub:** [View Code](https://github.com/warisgulzar123/apnamart)
+
+### Portfolio Website
+Modern, responsive portfolio showcasing my projects and skills with animated UI/UX.
+- **Tech:** React.js, Tailwind CSS, Firebase Hosting
+- **🔗 Live Demo:** [warisali.dev](#)
+
+### Real-time Chat Application
+Live messaging app with Socket.io for real-time communication.
+- **Tech:** React.js, Node.js, Socket.io, MongoDB
+- **🔗 GitHub:** [View Code](https://github.com/warisgulzar123/chat-app)
+
+## 📊 GitHub Stats
+![Waris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=warisgulzar123&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warisgulzar123&layout=compact&theme=radical)
+
+## 🎓 Education & Certifications
+- **Full Stack Development** - SMIT (Saylani Mass IT Training)
+- **Frontend Development** - Aptech Learning Center
+- **MA Islamic Studies** - Jamia Tul Madinah
+- **Diploma in IT** - Currently Enrolled (DIT)
+
+## 📫 Connect With Me
+- **💼 LinkedIn:** [Waris Ali](https://pk.linkedin.com/in/waris-ali-62a819368/)
+- **📧 Email:** warisaligulzar123@gmail.com
+- **📱 WhatsApp:** [+92 300 1234567](https://wa.me/923001234567)
+- **🌐 Portfolio:** [warisali.dev](#)
+
+## 📝 Currently Learning
+- Advanced TypeScript
+- Microservices Architecture
+- AWS Cloud Services
+- Next.js 14
 
 ---
 
-##  About Me
-I’m a passionate Front‑End Developer experienced in HTML, CSS, JavaScript, Bootstrap, and Firebase. Currently enrolled in a MERN stack program and working on mastering React, Node.js, MongoDB, and more. I also hold an M.A in Islamiat and actively contribute to religious education.
-
----
-
-##  Featured Project: My‑Portfolio
-A fully responsive, animated portfolio built with HTML, TailwindCSS, JavaScript, React, and Firebase showcasing my skills and projects.  
-🔗 [View Live →](https://warisgulzar123.github.io/My-portfolio/)
-
----
-
-##  GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warisgulzar123&show_icons=true&theme=default" alt="Waris's GitHub Stats">
-</p>
-
----
-
-- 💻 **Languages**: HTML, CSS, JavaScript, TypeScript
-- ⚛️ **Frameworks**: React, Tailwind CSS, Bootstrap
-- 🔥 **Firebase**: Authentication, Firestore, Hosting
-- 🧠 **Learning**: MERN Stack, TypeScript, Backend APIs
-- 🧰 **Tools**: VS Code, Git, GitHub, Figma, Canva
-- 🌐 **Other Skills**: Responsive Design, Animated UI, Modern UX
-| Portfolio | [My Portfolio Website](https://warisgulzar123.github.io/My-portfolio/) |
-| Email | warisgulzar123@gmail.com |
-
----
-
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
